@@ -1,0 +1,3 @@
+pandas 
+numpy 
+seabornpip install -r requirements.txt
